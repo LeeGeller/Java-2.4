@@ -6,7 +6,7 @@ public class Main {
         int hight = 160;
         int weight = 45;
 
-        int bmi = service.bmiService(hight,weight);
+        int bmi = service.bmiService(hight, weight);
         System.out.println(bmi);
 
     }
